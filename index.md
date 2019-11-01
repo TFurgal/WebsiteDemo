@@ -1,11 +1,19 @@
-You can use markdown to add content to you webpage.
+# Who Are You?
+Glad you asked. I'm someone who believes that passion, integrity, and a willingness to serve can change the world. I'm a librarian by training and a poet by upbringing. 
 
-Here are some highlights of markdown syntax.
 
-# Heading 1
-## Heading 2
-### Heading 3
 
+## Why I'm Running For NMRT President-Elect
+I believe that the health of any organization is best demonstrated by how it provides opportunities for its newest members. I believe that the greatest resources we have as library professionals are our colleagues. 
+
+### What's Your Vision For NMRT?
+
+
+1. Here is a thing.
+2. Here is a thing -- **but in bold**
+3. I cannot stress this enough *italics* matter.
+
+///
 **bold**
 *italics*
 
